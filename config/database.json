@@ -1,0 +1,11 @@
+{
+    "defaultEnv": "deployed_env",
+    "deployed_env": {
+      "driver": "mysql",
+      "user": "root",
+      "password": "102030mm",
+      "host": "localhost",
+      "database": "inventoryControl"
+    }
+  }
+  
